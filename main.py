@@ -15,8 +15,8 @@ print("Torchvision Version: ",torchvision.__version__)
 
 # Top level data directory. Here we assume the format of the directory conforms
 #   to the ImageFolder structure
-root_dir = "/content/India"
-save_file = "/content"
+root_dir = "/content/RDD/India"
+save_file = "/content/RDD"
 
 # Number of classes in the dataset
 num_classes = 5

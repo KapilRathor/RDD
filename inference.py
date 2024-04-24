@@ -16,8 +16,8 @@ import os
 print("PyTorch Version: ",torch.__version__)
 print("Torchvision Version: ",torchvision.__version__)
 
-root_dir = "/content/India"
-save_file = "/content"
+root_dir = "/content/RDD/India"
+save_file = "/content/RDD"
 
 
 # Number of classes in the dataset
